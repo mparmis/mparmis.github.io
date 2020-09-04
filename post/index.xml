@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Parmis Mohaghegh</title>
+    <link>https://mparmis.github.io/post/</link>
+    <description>Recent content in Projects on Parmis Mohaghegh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mparmis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Co-op: Thoughtexchange</title>
+      <link>https://mparmis.github.io/post/te/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/te/</guid>
+      <description>I joined a software company called Thoughtexchange for my second Co-op semester. Thoughtexchange has a mission to help leaders &amp;ldquo;hear from the unheard majority, not just the loudest voices&amp;rdquo;. Not only did I get a chance to work on a very interesting project and acquire a variety of new technical skills, but I also realized how working at a company that values providing equal opportunity and has created a wonderful culture of collaboration can make my work more enjoyable and purposeful.</description>
+    </item>
+    
+    <item>
+      <title>UBC Autonomous Driving Competition</title>
+      <link>https://mparmis.github.io/post/353/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/353/</guid>
+      <description>In a team of two, used hybrid classical control and Machine Learning algorithms for driving a robot in a simulated environment (Gazebo) using Robot Operating System (ROS). The live image feed from the in-simulation camera mounted on top of the robot was used to navigate the course, identify pedestrians, and read license plates.
+   Built a Convolutional Neural Network with three different networks in Python to identify and read the license plates on the cars.</description>
+    </item>
+    
+    <item>
+      <title>Rescue-Avengers Competition</title>
+      <link>https://mparmis.github.io/post/robot/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/robot/</guid>
+      <description>In a team of four, fully designed, built, and tested an autonomous robot collecting and storing 6 infinity stones and managed to finish the competition as the quarter-finalist among 16 teams. The robot performed all tasks fully autonomously from its on-board computers (500+ hours of work).
+   Implemented more than 2000 lines of C++ code to program the robot to perform the required tasks, including control algorithms for the drive system and the robotic arm.</description>
+    </item>
+    
+    <item>
+      <title>Cmd-f 2020: Vancouver&#39;s All-female* Hackathon</title>
+      <link>https://mparmis.github.io/post/cmf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/cmf/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work.</description>
+    </item>
+    
+    <item>
+      <title>Co-op: UBC Robotics and Control Lab</title>
+      <link>https://mparmis.github.io/post/rcl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/rcl/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low</description>
+    </item>
+    
+    <item>
+      <title>CPEN 221</title>
+      <link>https://mparmis.github.io/post/cpen221/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/cpen221/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm.</description>
+    </item>
+    
+    <item>
+      <title>CPEN312</title>
+      <link>https://mparmis.github.io/post/cpen312/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/post/cpen312/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm.</description>
+    </item>
+    
+  </channel>
+</rss>

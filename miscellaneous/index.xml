@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on Parmis Mohaghegh</title>
+    <link>https://mparmis.github.io/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on Parmis Mohaghegh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mparmis.github.io/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IKB</title>
+      <link>https://mparmis.github.io/miscellaneous/ikb/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/miscellaneous/ikb/</guid>
+      <description>In a team of two, used hybrid classical control and Machine Learning algorithms for driving a robot in a simulated environment (Gazebo) using Robot Operating System (ROS). The live image feed from the in-simulation camera mounted on top of the robot was used to navigate the course, identify pedestrians, and read license plates.
+ Built a Convolutional Neural Network with three different networks in Python to identify and read the license plates on the cars.</description>
+    </item>
+    
+    <item>
+      <title>Advisory Committee</title>
+      <link>https://mparmis.github.io/miscellaneous/advisorycommittee/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/miscellaneous/advisorycommittee/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work.
+  </description>
+    </item>
+    
+    <item>
+      <title>Book List</title>
+      <link>https://mparmis.github.io/miscellaneous/books/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/miscellaneous/books/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work.</description>
+    </item>
+    
+    <item>
+      <title>MAHAK</title>
+      <link>https://mparmis.github.io/miscellaneous/mahak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mparmis.github.io/miscellaneous/mahak/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm.</description>
+    </item>
+    
+  </channel>
+</rss>
