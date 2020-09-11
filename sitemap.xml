@@ -24,27 +24,27 @@
   
   <url>
     <loc>https://mparmis.github.io/post/te/</loc>
-    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mparmis.github.io/</loc>
-    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mparmis.github.io/miscellaneous/ikb/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mparmis.github.io/post/353/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mparmis.github.io/miscellaneous/ikb/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

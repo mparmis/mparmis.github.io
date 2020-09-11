@@ -14,24 +14,22 @@
     <item>
       <title>Co-op: Thoughtexchange</title>
       <link>https://mparmis.github.io/post/te/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mparmis.github.io/post/te/</guid>
-      <description>Key Skills: Natural Language Processing, LSTM, Data Cleansing, Production Deployment
-Key Technologies: Python, Jupyter Notebook, TensorFlow, Keras
+      <description>Overview:
 I joined a software company called Thoughtexchange for my second Co-op semester. Thoughtexchange has a mission to help leaders &amp;ldquo;hear from the unheard majority, not just the loudest voices&amp;rdquo;. Not only did I get a chance to work on a very interesting project and acquire a variety of new technical skills, but I also realized how working at a company that values providing equal opportunity and has created a wonderful culture of collaboration can make my work more enjoyable and purposeful.</description>
     </item>
     
     <item>
       <title>UBC Autonomous Driving Competition</title>
       <link>https://mparmis.github.io/post/353/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mparmis.github.io/post/353/</guid>
-      <description>Key Skills: Machine Learning, Machine Vision, Neural Networks, Image Processing, Reinforcement Learning
-Key Technologies: Python, Gazebo, ROS, OpenCV, TensorFlow, Keras
+      <description>Overview:
 I was one of the lucky students to be able to take ENPH 353, a Machine Learning Competition Course that was offered for the very first time at UBC.
-The first half of the course consisted of individual projects to practice some of the most recent techniques and developments in control software and data classification.</description>
+The first half of the course consisted of individual projects to practice some of the most recent techniques and developments in control software and data classification. For the second half, we formed teams of two and had 6 weeks to get our simulated robot ready for the competition day!</description>
     </item>
     
     <item>
@@ -40,8 +38,10 @@ The first half of the course consisted of individual projects to practice some o
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mparmis.github.io/post/robot/</guid>
-      <description>In a team of four, fully designed, built, and tested an autonomous robot collecting and storing 6 infinity stones and managed to finish the competition as the quarter-finalist among 16 teams. The robot performed all tasks fully autonomously from its on-board computers (500+ hours of work).
-   Implemented more than 2000 lines of C++ code to program the robot to perform the required tasks, including control algorithms for the drive system and the robotic arm.</description>
+      <description>Overview:
+This post is about my favourite project! The fully autonomous robot that my team and I developed over the summer of 2019!
+The famous Engineering Physics Autonomous Robot Competition has been running for 20 years over the summers. This is a hands on project course in which teams of four work together to build an autonomous robot from scratch. And when I say scratch, I mean scratch!
+Over the summer, our team spent roughly three months brainstorming, designing, prototyping, and testing to bring our robot to life.</description>
     </item>
     
     <item>
