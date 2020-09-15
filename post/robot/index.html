@@ -36,7 +36,7 @@
 <meta itemprop="description" content="Tony Sparks to the rescue!">
 <meta itemprop="datePublished" content="2019-08-08T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-08-08T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="255">
+<meta itemprop="wordCount" content="512">
 
 
 
@@ -183,29 +183,36 @@ The famous Engineering Physics Autonomous Robot Competition has been running for
 Our main objective was to build a robot that can navigate an electrical tape track, collect 6 infinity stones from the top of the posts along the track, and store them in designated gauntlets. The robot had to perform all tasks fully autonomously from its on-board computers.</p>
 <p><strong>Key Skills</strong>: Rapid Prototyping, Embedded C++ firmware,PID Control, Electrical Circuit Design, Laser Cutter, Waterjet Cutter</p>
 <p><strong>Key Technologies</strong>: C++, STM32 Blue Pill, OnShape</p>
+<p><strong>My Contribution:</strong></p>
+<p>I was responsible for the software and electrical components of the robot arm. I designed and built circuits such as H-bridge (run motors) and Pulse-Width Modulation circuit (to feed the motors). I used limit switches on the arm for the detection of the posts and stons, and I used servo motors for rotating the arm to align with the holes on the stone storage area.<br>
+We used a STM32 (aka BluePill microcontroller) for the arm, and another one for the driving chasis. The arm was able to signal the chasis when it was time to stop to pick up a stone, or to store a stone in the gautlet. You can see my circuits below, I am very proud of my soldering!</p>
+<figure>
+    <img src="https://mparmis.github.io/images/circuit.jpg"/> 
+</figure>
+
+<p>I designed an Object-Oriented state machine in C++ to control the program flow of the arm. Each state represented a task that the arm was required to complete before signaling the driving system to resume working. You can see below the performance of the arm system while moving independently from the driving chasis and picking a infinity stone.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/AQbMqvkF40Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<ul>
-<li>Implemented more than 2000 lines of C++ code to program the robot to perform the required
-tasks, including control algorithms for the drive system and the robotic arm.</li>
-<li>Designed and built circuits such as H-bridge (run motors), IR receiver circuit (for navigation),
-Pulse-Width Modulation circuit (to feed the motors) and various signal filters.</li>
-<li>Designed and fully built the full body of the robot using a CAD software (SolidWorks) and
-made a robotic arm able to collect stones placed in different heights and place them accurately in gauntlets in all possible coordinates of space.</li>
-</ul>
+<p>Any then there was time to put the arm system on the chasis. The biggest listen we learned here was to account for the extra time it takes to integrate different parts of the system. Specially the proportional-integral-derivative (PID) controller code neede to be re-tuned to account for the extra weight of the arm. But finally we were able to put the whole thing together, and it looked beautiful!</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/AQbMqvkF40Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/qKAoU5pAbZY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<p>there will be something here</p>
+<p>The night before the competition was a night I will never forget. 60 Engineering Physics students working tirelessly for more than 30 hours straight to be able to show case their project to the big crowd that were coming to the competition the following day. It was the most tiring and exciting 30 hours of my life!<br>
+Please enjoy the following news coverage of the event.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/QRacq8k-Tr0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
+
+<p>And ofcourse none of this would have been possible without my amazing teammates. The picture below are the team (Alistair Brian, Zach Laskin, me, and Maria Phelan), on the first day that we started working on our robot.</p>
+<figure>
+    <img src="https://mparmis.github.io/images/team.jpg"/> 
+</figure>
 
 <ul class="pa0">
   
