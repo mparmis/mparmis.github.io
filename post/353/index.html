@@ -186,7 +186,7 @@ I was one of the lucky students to be able to take ENPH 353, a Machine Learning 
 
 <p><strong>Key Skills</strong>: Machine Learning, Machine Vision, Neural Networks, Image Processing, Reinforcement Learning</p>
 <p><strong>Key Technologies</strong>: Python, Gazebo, ROS, OpenCV, TensorFlow, Keras</p>
-<p><strong>My Contribution:</strong></p>
+<p><strong>My Contribution</strong></p>
 <p>I was responsible for training the model that read and published the licence plates that were found from the video feed. Below, you can see an example of the unfiltered captured image from the video feed.</p>
 <p><figure>
     <img src="https://mparmis.github.io/images/2.jpg"/> 
@@ -197,14 +197,14 @@ I was one of the lucky students to be able to take ENPH 353, a Machine Learning 
 </figure>
 </p>
 <p>The captured images are first filtered and cropped to identify the portion of the image which has the parking location and plate number information. Then the plate number information is also cropped into the letters and numbers portions, and then they are fed into the pre-trained model.</p>
-<p><strong>Dataset Generation and Augmentation:</strong> The challenge with the data was that I didn&rsquo;t always get a focused image from the video feed; therefore, I had to heavily augment the training data, using cv2 and Keras functions, to make sure our model can read the license plates regardless of the perspective it&rsquo;s taken from or the quality. Some examples of the augmented numbers can be seen below.</p>
+<p><strong>Dataset Generation and Augmentation</strong> The challenge with the data was that I didn&rsquo;t always get a focused image from the video feed; therefore, I had to heavily augment the training data, using cv2 and Keras functions, to make sure our model can read the license plates regardless of the perspective it&rsquo;s taken from or the quality. Some examples of the augmented numbers can be seen below.</p>
 <figure>
     <img src="https://mparmis.github.io/images/num.JPG"/> 
 </figure>
 
-<p><strong>CNN Architecture and Training:</strong> I design a Convolutional Neural Network, with 3 different networks. I used a network for letters and 2 other networks for numbers on the licence plate and the parking position. Using different networks for numbers and letters reduced the risk of the network getting similar characters like the letter “O” and the number “0” confused. Furthermore, the numbers on the licence plate and the parking position had different shapes and that&rsquo;s why I used different networks for them.</p>
-<p><strong>Validation:</strong> For validation I used a dataset of the licence plates generated from the camera feed. I used Confusion Matrix to do error analysis and balanced the training data based on that.</p>
-<p><strong>Results:</strong> On the day of the competition, our robot was able to successfully navigate the entire simulated track and correctly read all the licence plates and parking positions and we were placed 2nd out of 20 teams!</p>
+<p><strong>CNN Architecture and Training</strong> I design a Convolutional Neural Network, with 3 different networks. I used a network for letters and 2 other networks for numbers on the licence plate and the parking position. Using different networks for numbers and letters reduced the risk of the network getting similar characters like the letter “O” and the number “0” confused. Furthermore, the numbers on the licence plate and the parking position had different shapes and that&rsquo;s why I used different networks for them.</p>
+<p><strong>Validation</strong> For validation I used a dataset of the licence plates generated from the camera feed. I used Confusion Matrix to do error analysis and balanced the training data based on that.</p>
+<p><strong>Results</strong> On the day of the competition, our robot was able to successfully navigate the entire simulated track and correctly read all the licence plates and parking positions and we were placed 2nd out of 20 teams!</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/NfkyDWUh2EA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
