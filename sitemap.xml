@@ -72,6 +72,13 @@
   </url>
   
   <url>
+    <loc>https://mparmis.github.io/post/rcl/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mparmis.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -79,12 +86,6 @@
   
   <url>
     <loc>https://mparmis.github.io/post/cmf/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mparmis.github.io/post/rcl/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -109,12 +110,6 @@
   
   <url>
     <loc>https://mparmis.github.io/miscellaneous/mahak/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mparmis.github.io/tags/scene/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
